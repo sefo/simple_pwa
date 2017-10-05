@@ -1,0 +1,25 @@
+{
+    "short_name": "Emergency",
+    "name": "Inovans manager emergency",
+    "icons": [
+      {
+        "src": "assets/small.png",
+        "type": "image/png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "assets/big.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "assets/huge.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#512DA8",
+    "theme_color": "#512DA8", 
+    "display": "standalone"
+}

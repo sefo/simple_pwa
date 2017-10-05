@@ -3,7 +3,7 @@
 
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('sw.js', {
-            scope: '/'
+            scope: '/simple_pwa'
         });
     }
 

@@ -2,7 +2,6 @@
 
 var CACHE_NAME = 'emergency-v1';
 var urlsToCache = [
-  'simple_pwa',
   'assets/help.gif',
   'assets/beer.jpg',
   'js/main.js',
